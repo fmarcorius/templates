@@ -15,7 +15,7 @@ Add title of the Specification. Example title: OMP Technical Specification.
 DELETE THIS COMMENT
 ```
 ```
-Stutus:
+Status:
 Select the appropriate status of the document. Example status: Draft or Approved.
 DELETE THIS COMMENT
 ```
@@ -39,7 +39,7 @@ DELETE THIS COMMENT
 files:
 List all the md files that are contained within the document specification
 Example
-  - OMA-Technical-Specification.md
+  - OMP-Technical-Specification.md
   - Appendix_A.md
   
 DELETE THIS COMMENT
