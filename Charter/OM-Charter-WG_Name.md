@@ -1,4 +1,4 @@
-## IoT Connectivity Working Group Chapter
+## <WG Name> Working Group Chapter
 
 This Working Group Charter establishes the Scope and intellectual property terms used to develop the materials identified 
 in this Working Group Charter for the Project. Only Project Steering Members, Associates, and Contributors that Joined the 
