@@ -4,13 +4,23 @@ This Working Group Charter establishes the Scope and intellectual property terms
 in this Working Group Charter for the Project. Only Project Steering Members, Associates, and Contributors that Joined the 
 Working Group will be bound by its terms and be permitted to participate in this Working Group.
 
-1. **Working Group Name**. **Working Group**
-2. **Working Group Scope**. <scope>
+1. **Working Group Name**. **[Working Group name]**
+> Note: Add Working Group name above
+>
+> DELETE THIS NOTE
+
+2. **Working Group Scope**. [scope]
+
+> Note: Add Working Group scope above. 
+>
+> DELETE THIS NOTE
 
 
 
 ## Approach and Work Packages
-<description>
+> Note: Add approach and Work Packages here
+>
+> DELETE THIS NOTE
 
 3. **Copyright Policy**. Each Working Group must specify the copyright mode under which it will operate prior to 
 initiating any work on any Draft Deliverable or Approved Deliverable other than source code. The copyright mode for 
