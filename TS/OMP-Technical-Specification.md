@@ -184,7 +184,7 @@ Sections for the normative specification text. Fill in as needed. The following 
 (Add text here.)
 
 <figure>
-	<img scr="images/omp_governance.svg" alt="OMP governance">
+	<img src="images/omp_governance.svg" alt="OMP governance">
 	<figcaption>OMP governance</figcaption> 
 </figure>	
 
