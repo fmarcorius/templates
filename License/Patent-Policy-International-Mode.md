@@ -1,6 +1,6 @@
 ## Patent Policy Option 2:  International Mode.
 
-   For materials other than source code developed by the Working Group , the Approved Deliverable is subject to then 
+   For materials other than source code developed by the Working Group, the Approved Deliverable is subject to then 
    current terms of the Common Patent Policy for ITU-T/ITU-R/ISO/IEC, the Guidelines for Implementing the Common Patent 
    Policy for ITU-T/ITU-R/ISO/IEC (including the Common Guidelines and Specific Provisions for ISO and IEC only), and 
    Patent Statement and Licensing Declaration Form, which are available at https://www.iso.org/iso-standards-and-patents.html.  
