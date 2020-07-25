@@ -1,10 +1,10 @@
 ## Patent Policy Option 3:  Open Web Foundation 1.0 Mode.
 
-1.	**Open Web Foundation CLA 1.0 (“OWF CLA 1.0”)**.  Each Working Group Participant will be deemed to have executed the 
+1.	**Open Web Foundation CLA 1.0 (“OWF CLA 1.0”)**. Each Working Group Participant will be deemed to have executed the 
     OWF CLA 1.0 for its Contributions (as defined in the OWF CLA 1.0) to the Working Group. The OWF CLA 1.0 is available 
     at https://sites.google.com/site/openwebfoundation/legal/the-owf-1-0-agreements/owf-contributor-license-agreement-1-0---copyright-and-patent.  
 
-2.	**Open Web Foundation Approved Deliverable Agreement 1.0 (“OWFa 1.0”)**.  Upon a Draft Deliverable being declared an 
+2.	**Open Web Foundation Approved Deliverable Agreement 1.0 (“OWFa 1.0”)**. Upon a Draft Deliverable being declared an 
     Approved Deliverable, the Working Group chair will request in writing that all Working Group Participants execute 
     the OWFa 1.0 with respect to that Approved Deliverable.  Pursuant to the terms of the OWF CLA 1.0, it is anticipated 
     that the Approved Deliverable will be subject to the OWFa 1.0, but neither this agreement nor the CLA 1.0 imposes a 
